@@ -43,6 +43,9 @@ gem 'devise', '4.2.0'
 # Use Stripe for payment processing
 gem 'stripe', '1.48.0'
 
+# Use Paperclip for image upload
+gem 'paperclip', '6.0.0'
+
 
 
 group :development, :test do
